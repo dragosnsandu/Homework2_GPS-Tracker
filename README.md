@@ -10,6 +10,6 @@ To find the shortest path, the following operations are executed:
 4. Floyd-Marshall on 'cost' matrix in order to determine the lower cost path. 'cost' matrix is overwritten.
 
 # How to run the GPS Tracker
-<code>make build</code> - this will compile the main.c file and create 'gps' file.
+<code>make build</code> - this will compile the main.c file and create 'gps' file.<br>
 <code>make checker</code> 
 It should run all the tests and return a perfect score - 100 points.
